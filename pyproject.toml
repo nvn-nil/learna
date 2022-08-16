@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "learna_ml"
+name = "learna"
 version = "0.1.0"
 description = ""
 authors = ["Naveen Anil <naveenms01@gmail.com>"]
