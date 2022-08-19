@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "learna"
-version = "0.1.0"
+version = "0.1.1"
 description = "Machine learning implemented purely in python. Mainly for research and learning purposes."
 authors = ["Naveen Anil <naveenms01@gmail.com>"]
 license = "MIT"
