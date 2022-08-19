@@ -5,5 +5,6 @@ import numpy as np
 
 
 def binary_step(x):
-    ''' It returns '0' is the input is less then zero otherwise it returns one '''
-    return np.heaviside(x,1)
+    """It returns '0' is the input is less then zero
+    otherwise it returns one"""
+    return np.heaviside(x, 1)
